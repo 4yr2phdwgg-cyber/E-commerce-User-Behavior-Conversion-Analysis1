@@ -338,3 +338,16 @@
 本项目完成了从数据清洗、探索性分析、转化漏斗分析到商品及品牌销售表现分析的完整流程。
 
 最终通过 Power BI 将关键指标和分析结果进行可视化展示，形成电商用户行为与销售表现分析看板，为理解用户转化过程和商品经营情况提供数据支持。
+
+## 十三、数据来源
+
+本项目使用的数据集来自 Kaggle：
+
+- **数据集名称：** [eCommerce Events History in Cosmetics Shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-Shop)
+- **数据集作者：** mkechinov
+- **数据平台：** Kaggle
+- **数据内容：** 美妆电商用户行为事件数据，包含用户浏览（view）、加入购物车（cart）、移出购物车（remove_from_cart）和购买（purchase）等行为记录。
+
+数据集包含事件时间、事件类型、商品 ID、品牌、价格、用户 ID 和会话 ID 等字段。
+
+**数据声明：** 本项目仅用于个人学习、数据分析实践与作品集展示。原始数据版权及使用规则以 Kaggle 数据集页面说明为准。
